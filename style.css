@@ -1,8 +1,8 @@
-input{
+yinput{
     display: block;
 }
 body{
-    background-color: lightpink;
+    background-color: grey;
 }
 #comment{
     width: 400px;
