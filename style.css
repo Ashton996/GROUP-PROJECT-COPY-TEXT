@@ -1,0 +1,17 @@
+input{
+    display: block;
+}
+body{
+    background-color: lightpink;
+}
+#comment{
+    width: 400px;
+    aspect-ratio: 1/1;
+}
+button{
+    width:1000px;
+    background-color: lightblue;
+}
+fieldset{
+    color: green;
+}
